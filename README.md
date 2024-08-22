@@ -12,6 +12,7 @@ JavaScript: Adding interactive elements and enhancing user experiences with cust
 Custom Web Design: Tailor-made websites that align with your vision and goals.
 Responsive Layouts: Ensuring your site looks great on all devices, from desktops to mobiles.
 Interactive Features: Bringing your site to life with smooth animations and user-friendly interactions.
+
 💼 Let's Connect:
 Feel free to explore my repositories and reach out if you have any questions or if you'd like to collaborate on a project!
 
